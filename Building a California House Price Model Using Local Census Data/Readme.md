@@ -6,6 +6,5 @@
 ## Выбор критерия качества работы:
 
 Уравнение 2.1. Квадратный корень из среднеквадратической ошибки (RMSE):
-$$RMSE(X, h) = \sqrt{\frac{1}{m}\sum\limits_{i=1}^m(h(x^{(i)} - y^{(i)})^2}$$
 
-<img src="https://latex.codecogs.com/gif.latex?O_t=\text { Onset event at time bin } t " /> 
+![equation](https://latex.codecogs.com/gif.latex?%24%24RMSE%28X%2C%20h%29%20%3D%20%5Csqrt%7B%5Cfrac%7B1%7D%7Bm%7D%5Csum%5Climits_%7Bi%3D1%7D%5Em%28h%28x%5E%7B%28i%29%29%7D%29-y%5E%7B%28i%29%7D%29%5E2%7D)
