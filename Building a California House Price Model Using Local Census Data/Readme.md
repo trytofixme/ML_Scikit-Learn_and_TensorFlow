@@ -8,6 +8,4 @@
 Уравнение 2.1. Квадратный корень из среднеквадратической ошибки (RMSE):
 $$RMSE(X, h) = \sqrt{\frac{1}{m}\sum\limits_{i=1}^m(h(x^{(i)} - y^{(i)})^2}$$
 
-<script type="text/javascript" async
-
-src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML">
+<img src="https://latex.codecogs.com/gif.latex?O_t=\text { Onset event at time bin } t " /> 
